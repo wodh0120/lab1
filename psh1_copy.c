@@ -3,7 +3,7 @@
 #include <string.h>
 #include <stdlib.h>
 
-#define MAXARGS 20
+#define MAXARGS 21
 #define ARGLEN 100
 
 char* makestring(char *);
